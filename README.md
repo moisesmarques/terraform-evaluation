@@ -18,4 +18,4 @@
 
 3. Use REST API or GraphQL
 4. Use DynamoDB to persist data
-5. Use Terraform as IaaS tool
+5. Use Terraform as infraesctructure as code tool
